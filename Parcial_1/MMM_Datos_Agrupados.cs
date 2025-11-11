@@ -16,12 +16,12 @@ namespace IEFI_Est
             return moda;
         }
 
-        public decimal Media(decimal limiteInferior, decimal frecuenciaAbsAcumulada,
+        public decimal Media(decimal limiteInferior, decimal sumFrecuenciaAbs,
                                  decimal frecAcumuladaInterModalAnterior, decimal frecuenciaAbsInterMedia,
                                  decimal amplitudIntervalo)
         {
             decimal media = limiteInferior + 
-                            (((frecuenciaAbsAcumulada/2) - frecAcumuladaInterModalAnterior) / 
+                            (((sumFrecuenciaAbs/2) - frecAcumuladaInterModalAnterior) / 
                                 frecuenciaAbsInterMedia) * 
                                 amplitudIntervalo;
 

@@ -75,7 +75,7 @@ namespace IEFI_Est
             this.btTareas.Name = "btTareas";
             this.btTareas.Size = new System.Drawing.Size(132, 43);
             this.btTareas.TabIndex = 24;
-            this.btTareas.Text = "Lista de Tareas";
+            this.btTareas.Text = "Moda y Media";
             this.btTareas.UseVisualStyleBackColor = false;
             this.btTareas.Click += new System.EventHandler(this.btTareas_Click);
             // 
@@ -105,7 +105,7 @@ namespace IEFI_Est
             this.btInicio.Name = "btInicio";
             this.btInicio.Size = new System.Drawing.Size(132, 43);
             this.btInicio.TabIndex = 22;
-            this.btInicio.Text = "Inicio";
+            this.btInicio.Text = "Conteo";
             this.btInicio.UseVisualStyleBackColor = false;
             this.btInicio.Click += new System.EventHandler(this.btInicio_Click);
             // 
