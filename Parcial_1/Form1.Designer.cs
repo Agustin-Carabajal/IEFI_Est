@@ -69,7 +69,7 @@ namespace IEFI_Est
             this.btTareas.BackColor = System.Drawing.Color.MediumSeaGreen;
             this.btTareas.Dock = System.Windows.Forms.DockStyle.Top;
             this.btTareas.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btTareas.Font = new System.Drawing.Font("Arial Black", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btTareas.Font = new System.Drawing.Font("Consolas", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btTareas.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(34)))), ((int)(((byte)(40)))), ((int)(((byte)(49)))));
             this.btTareas.Location = new System.Drawing.Point(0, 86);
             this.btTareas.Name = "btTareas";
@@ -84,7 +84,7 @@ namespace IEFI_Est
             this.btCalculadora.BackColor = System.Drawing.Color.MediumSeaGreen;
             this.btCalculadora.Dock = System.Windows.Forms.DockStyle.Top;
             this.btCalculadora.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btCalculadora.Font = new System.Drawing.Font("Arial Black", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btCalculadora.Font = new System.Drawing.Font("Consolas", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btCalculadora.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(34)))), ((int)(((byte)(40)))), ((int)(((byte)(49)))));
             this.btCalculadora.Location = new System.Drawing.Point(0, 43);
             this.btCalculadora.Name = "btCalculadora";
@@ -99,7 +99,7 @@ namespace IEFI_Est
             this.btInicio.BackColor = System.Drawing.Color.MediumSeaGreen;
             this.btInicio.Dock = System.Windows.Forms.DockStyle.Top;
             this.btInicio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btInicio.Font = new System.Drawing.Font("Arial Black", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btInicio.Font = new System.Drawing.Font("Consolas", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btInicio.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(34)))), ((int)(((byte)(40)))), ((int)(((byte)(49)))));
             this.btInicio.Location = new System.Drawing.Point(0, 0);
             this.btInicio.Name = "btInicio";

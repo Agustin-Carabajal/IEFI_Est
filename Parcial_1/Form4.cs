@@ -58,6 +58,5 @@ namespace IEFI_Est
             txtFrecAcumAnterior.Clear();
         }
 
-
     }
 }
