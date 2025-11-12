@@ -54,5 +54,10 @@ namespace IEFI_Est
             txtSeleccN.Clear();
             txtSelecK.Clear();
         }
+
+        private void lblSelecResult_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -41,7 +41,7 @@ namespace IEFI_Est
             // 
             // pnlMenu
             // 
-            this.pnlMenu.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(49)))), ((int)(((byte)(54)))), ((int)(((byte)(63)))));
+            this.pnlMenu.BackColor = System.Drawing.Color.LightGreen;
             this.pnlMenu.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.pnlMenu.Controls.Add(this.label1);
             this.pnlMenu.Controls.Add(this.btTareas);
@@ -57,19 +57,19 @@ namespace IEFI_Est
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Segoe UI Semibold", 15.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(118)))), ((int)(((byte)(171)))), ((int)(((byte)(174)))));
+            this.label1.ForeColor = System.Drawing.Color.Black;
             this.label1.Location = new System.Drawing.Point(36, 410);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(56, 30);
+            this.label1.Size = new System.Drawing.Size(47, 30);
             this.label1.TabIndex = 22;
-            this.label1.Text = "Utils";
+            this.label1.Text = "IEFI";
             // 
             // btTareas
             // 
-            this.btTareas.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(118)))), ((int)(((byte)(171)))), ((int)(((byte)(174)))));
+            this.btTareas.BackColor = System.Drawing.Color.MediumSeaGreen;
             this.btTareas.Dock = System.Windows.Forms.DockStyle.Top;
             this.btTareas.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btTareas.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btTareas.Font = new System.Drawing.Font("Arial Black", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btTareas.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(34)))), ((int)(((byte)(40)))), ((int)(((byte)(49)))));
             this.btTareas.Location = new System.Drawing.Point(0, 86);
             this.btTareas.Name = "btTareas";
@@ -81,10 +81,10 @@ namespace IEFI_Est
             // 
             // btCalculadora
             // 
-            this.btCalculadora.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(118)))), ((int)(((byte)(171)))), ((int)(((byte)(174)))));
+            this.btCalculadora.BackColor = System.Drawing.Color.MediumSeaGreen;
             this.btCalculadora.Dock = System.Windows.Forms.DockStyle.Top;
             this.btCalculadora.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btCalculadora.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btCalculadora.Font = new System.Drawing.Font("Arial Black", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btCalculadora.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(34)))), ((int)(((byte)(40)))), ((int)(((byte)(49)))));
             this.btCalculadora.Location = new System.Drawing.Point(0, 43);
             this.btCalculadora.Name = "btCalculadora";
@@ -96,10 +96,10 @@ namespace IEFI_Est
             // 
             // btInicio
             // 
-            this.btInicio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(118)))), ((int)(((byte)(171)))), ((int)(((byte)(174)))));
+            this.btInicio.BackColor = System.Drawing.Color.MediumSeaGreen;
             this.btInicio.Dock = System.Windows.Forms.DockStyle.Top;
             this.btInicio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btInicio.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btInicio.Font = new System.Drawing.Font("Arial Black", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btInicio.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(34)))), ((int)(((byte)(40)))), ((int)(((byte)(49)))));
             this.btInicio.Location = new System.Drawing.Point(0, 0);
             this.btInicio.Name = "btInicio";
@@ -111,6 +111,7 @@ namespace IEFI_Est
             // 
             // panelSub
             // 
+            this.panelSub.BackColor = System.Drawing.Color.SeaGreen;
             this.panelSub.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panelSub.Location = new System.Drawing.Point(134, 0);
             this.panelSub.Name = "panelSub";

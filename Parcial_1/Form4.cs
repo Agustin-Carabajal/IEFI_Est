@@ -57,5 +57,20 @@ namespace IEFI_Est
             txtSumatoriafi.Clear();
             txtFrecAcumAnterior.Clear();
         }
+
+        private void txtFrecAbsInterv_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label8_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form4_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

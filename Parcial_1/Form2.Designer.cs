@@ -52,10 +52,10 @@
             // 
             // btBorrarUno
             // 
-            this.btBorrarUno.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(49)))), ((int)(((byte)(54)))), ((int)(((byte)(63)))));
+            this.btBorrarUno.BackColor = System.Drawing.Color.MediumSeaGreen;
             this.btBorrarUno.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btBorrarUno.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btBorrarUno.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(118)))), ((int)(((byte)(171)))), ((int)(((byte)(174)))));
+            this.btBorrarUno.ForeColor = System.Drawing.Color.Black;
             this.btBorrarUno.Location = new System.Drawing.Point(326, 124);
             this.btBorrarUno.Name = "btBorrarUno";
             this.btBorrarUno.Size = new System.Drawing.Size(46, 43);
@@ -68,7 +68,7 @@
             // 
             this.lblNum1.AutoSize = true;
             this.lblNum1.Font = new System.Drawing.Font("Segoe UI", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblNum1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(118)))), ((int)(((byte)(171)))), ((int)(((byte)(174)))));
+            this.lblNum1.ForeColor = System.Drawing.Color.Black;
             this.lblNum1.Location = new System.Drawing.Point(164, 50);
             this.lblNum1.Name = "lblNum1";
             this.lblNum1.Size = new System.Drawing.Size(0, 30);
@@ -78,7 +78,7 @@
             // 
             this.lblResultado.AutoSize = true;
             this.lblResultado.Font = new System.Drawing.Font("Segoe UI", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblResultado.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(118)))), ((int)(((byte)(171)))), ((int)(((byte)(174)))));
+            this.lblResultado.ForeColor = System.Drawing.Color.Black;
             this.lblResultado.Location = new System.Drawing.Point(164, 80);
             this.lblResultado.Name = "lblResultado";
             this.lblResultado.Size = new System.Drawing.Size(0, 30);
@@ -86,10 +86,10 @@
             // 
             // btBorrar
             // 
-            this.btBorrar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(49)))), ((int)(((byte)(54)))), ((int)(((byte)(63)))));
+            this.btBorrar.BackColor = System.Drawing.Color.MediumSeaGreen;
             this.btBorrar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btBorrar.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btBorrar.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(118)))), ((int)(((byte)(171)))), ((int)(((byte)(174)))));
+            this.btBorrar.ForeColor = System.Drawing.Color.Black;
             this.btBorrar.Location = new System.Drawing.Point(274, 124);
             this.btBorrar.Name = "btBorrar";
             this.btBorrar.Size = new System.Drawing.Size(46, 43);
@@ -100,10 +100,10 @@
             // 
             // btDivision
             // 
-            this.btDivision.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(49)))), ((int)(((byte)(54)))), ((int)(((byte)(63)))));
+            this.btDivision.BackColor = System.Drawing.Color.MediumSeaGreen;
             this.btDivision.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btDivision.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btDivision.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(118)))), ((int)(((byte)(171)))), ((int)(((byte)(174)))));
+            this.btDivision.ForeColor = System.Drawing.Color.Black;
             this.btDivision.Location = new System.Drawing.Point(326, 173);
             this.btDivision.Name = "btDivision";
             this.btDivision.Size = new System.Drawing.Size(46, 43);
@@ -114,10 +114,10 @@
             // 
             // btMultiplicacion
             // 
-            this.btMultiplicacion.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(49)))), ((int)(((byte)(54)))), ((int)(((byte)(63)))));
+            this.btMultiplicacion.BackColor = System.Drawing.Color.MediumSeaGreen;
             this.btMultiplicacion.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btMultiplicacion.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btMultiplicacion.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(118)))), ((int)(((byte)(171)))), ((int)(((byte)(174)))));
+            this.btMultiplicacion.ForeColor = System.Drawing.Color.Black;
             this.btMultiplicacion.Location = new System.Drawing.Point(326, 222);
             this.btMultiplicacion.Name = "btMultiplicacion";
             this.btMultiplicacion.Size = new System.Drawing.Size(46, 43);
@@ -128,10 +128,10 @@
             // 
             // btResta
             // 
-            this.btResta.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(49)))), ((int)(((byte)(54)))), ((int)(((byte)(63)))));
+            this.btResta.BackColor = System.Drawing.Color.MediumSeaGreen;
             this.btResta.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btResta.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btResta.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(118)))), ((int)(((byte)(171)))), ((int)(((byte)(174)))));
+            this.btResta.ForeColor = System.Drawing.Color.Black;
             this.btResta.Location = new System.Drawing.Point(326, 271);
             this.btResta.Name = "btResta";
             this.btResta.Size = new System.Drawing.Size(46, 43);
@@ -142,10 +142,10 @@
             // 
             // btSuma
             // 
-            this.btSuma.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(49)))), ((int)(((byte)(54)))), ((int)(((byte)(63)))));
+            this.btSuma.BackColor = System.Drawing.Color.MediumSeaGreen;
             this.btSuma.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btSuma.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btSuma.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(118)))), ((int)(((byte)(171)))), ((int)(((byte)(174)))));
+            this.btSuma.ForeColor = System.Drawing.Color.Black;
             this.btSuma.Location = new System.Drawing.Point(326, 320);
             this.btSuma.Name = "btSuma";
             this.btSuma.Size = new System.Drawing.Size(46, 43);
@@ -156,10 +156,10 @@
             // 
             // btResultado
             // 
-            this.btResultado.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(49)))), ((int)(((byte)(54)))), ((int)(((byte)(63)))));
+            this.btResultado.BackColor = System.Drawing.Color.MediumSeaGreen;
             this.btResultado.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btResultado.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btResultado.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(118)))), ((int)(((byte)(171)))), ((int)(((byte)(174)))));
+            this.btResultado.ForeColor = System.Drawing.Color.Black;
             this.btResultado.Location = new System.Drawing.Point(274, 320);
             this.btResultado.Name = "btResultado";
             this.btResultado.Size = new System.Drawing.Size(46, 43);
@@ -170,10 +170,10 @@
             // 
             // btCero
             // 
-            this.btCero.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(49)))), ((int)(((byte)(54)))), ((int)(((byte)(63)))));
+            this.btCero.BackColor = System.Drawing.Color.MediumSeaGreen;
             this.btCero.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btCero.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btCero.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(118)))), ((int)(((byte)(171)))), ((int)(((byte)(174)))));
+            this.btCero.ForeColor = System.Drawing.Color.Black;
             this.btCero.Location = new System.Drawing.Point(170, 320);
             this.btCero.Name = "btCero";
             this.btCero.Size = new System.Drawing.Size(46, 43);
@@ -184,10 +184,10 @@
             // 
             // btComa
             // 
-            this.btComa.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(49)))), ((int)(((byte)(54)))), ((int)(((byte)(63)))));
+            this.btComa.BackColor = System.Drawing.Color.MediumSeaGreen;
             this.btComa.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btComa.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btComa.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(118)))), ((int)(((byte)(171)))), ((int)(((byte)(174)))));
+            this.btComa.ForeColor = System.Drawing.Color.Black;
             this.btComa.Location = new System.Drawing.Point(222, 320);
             this.btComa.Name = "btComa";
             this.btComa.Size = new System.Drawing.Size(46, 43);
@@ -198,10 +198,10 @@
             // 
             // btTres
             // 
-            this.btTres.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(49)))), ((int)(((byte)(54)))), ((int)(((byte)(63)))));
+            this.btTres.BackColor = System.Drawing.Color.MediumSeaGreen;
             this.btTres.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btTres.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btTres.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(118)))), ((int)(((byte)(171)))), ((int)(((byte)(174)))));
+            this.btTres.ForeColor = System.Drawing.Color.Black;
             this.btTres.Location = new System.Drawing.Point(274, 271);
             this.btTres.Name = "btTres";
             this.btTres.Size = new System.Drawing.Size(46, 43);
@@ -212,10 +212,10 @@
             // 
             // btDos
             // 
-            this.btDos.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(49)))), ((int)(((byte)(54)))), ((int)(((byte)(63)))));
+            this.btDos.BackColor = System.Drawing.Color.MediumSeaGreen;
             this.btDos.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btDos.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btDos.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(118)))), ((int)(((byte)(171)))), ((int)(((byte)(174)))));
+            this.btDos.ForeColor = System.Drawing.Color.Black;
             this.btDos.Location = new System.Drawing.Point(222, 271);
             this.btDos.Name = "btDos";
             this.btDos.Size = new System.Drawing.Size(46, 43);
@@ -226,10 +226,10 @@
             // 
             // btUno
             // 
-            this.btUno.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(49)))), ((int)(((byte)(54)))), ((int)(((byte)(63)))));
+            this.btUno.BackColor = System.Drawing.Color.MediumSeaGreen;
             this.btUno.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btUno.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btUno.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(118)))), ((int)(((byte)(171)))), ((int)(((byte)(174)))));
+            this.btUno.ForeColor = System.Drawing.Color.Black;
             this.btUno.Location = new System.Drawing.Point(170, 271);
             this.btUno.Name = "btUno";
             this.btUno.Size = new System.Drawing.Size(46, 43);
@@ -240,10 +240,10 @@
             // 
             // btSeis
             // 
-            this.btSeis.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(49)))), ((int)(((byte)(54)))), ((int)(((byte)(63)))));
+            this.btSeis.BackColor = System.Drawing.Color.MediumSeaGreen;
             this.btSeis.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btSeis.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btSeis.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(118)))), ((int)(((byte)(171)))), ((int)(((byte)(174)))));
+            this.btSeis.ForeColor = System.Drawing.Color.Black;
             this.btSeis.Location = new System.Drawing.Point(274, 222);
             this.btSeis.Name = "btSeis";
             this.btSeis.Size = new System.Drawing.Size(46, 43);
@@ -254,10 +254,10 @@
             // 
             // btCinco
             // 
-            this.btCinco.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(49)))), ((int)(((byte)(54)))), ((int)(((byte)(63)))));
+            this.btCinco.BackColor = System.Drawing.Color.MediumSeaGreen;
             this.btCinco.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btCinco.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btCinco.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(118)))), ((int)(((byte)(171)))), ((int)(((byte)(174)))));
+            this.btCinco.ForeColor = System.Drawing.Color.Black;
             this.btCinco.Location = new System.Drawing.Point(222, 222);
             this.btCinco.Name = "btCinco";
             this.btCinco.Size = new System.Drawing.Size(46, 43);
@@ -268,10 +268,10 @@
             // 
             // btCuatro
             // 
-            this.btCuatro.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(49)))), ((int)(((byte)(54)))), ((int)(((byte)(63)))));
+            this.btCuatro.BackColor = System.Drawing.Color.MediumSeaGreen;
             this.btCuatro.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btCuatro.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btCuatro.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(118)))), ((int)(((byte)(171)))), ((int)(((byte)(174)))));
+            this.btCuatro.ForeColor = System.Drawing.Color.Black;
             this.btCuatro.Location = new System.Drawing.Point(170, 222);
             this.btCuatro.Name = "btCuatro";
             this.btCuatro.Size = new System.Drawing.Size(46, 43);
@@ -282,10 +282,10 @@
             // 
             // btNueve
             // 
-            this.btNueve.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(49)))), ((int)(((byte)(54)))), ((int)(((byte)(63)))));
+            this.btNueve.BackColor = System.Drawing.Color.MediumSeaGreen;
             this.btNueve.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btNueve.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btNueve.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(118)))), ((int)(((byte)(171)))), ((int)(((byte)(174)))));
+            this.btNueve.ForeColor = System.Drawing.Color.Black;
             this.btNueve.Location = new System.Drawing.Point(274, 173);
             this.btNueve.Name = "btNueve";
             this.btNueve.Size = new System.Drawing.Size(46, 43);
@@ -296,10 +296,10 @@
             // 
             // btOcho
             // 
-            this.btOcho.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(49)))), ((int)(((byte)(54)))), ((int)(((byte)(63)))));
+            this.btOcho.BackColor = System.Drawing.Color.MediumSeaGreen;
             this.btOcho.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btOcho.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btOcho.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(118)))), ((int)(((byte)(171)))), ((int)(((byte)(174)))));
+            this.btOcho.ForeColor = System.Drawing.Color.Black;
             this.btOcho.Location = new System.Drawing.Point(222, 173);
             this.btOcho.Name = "btOcho";
             this.btOcho.Size = new System.Drawing.Size(46, 43);
@@ -310,10 +310,10 @@
             // 
             // btSiete
             // 
-            this.btSiete.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(49)))), ((int)(((byte)(54)))), ((int)(((byte)(63)))));
+            this.btSiete.BackColor = System.Drawing.Color.MediumSeaGreen;
             this.btSiete.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btSiete.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btSiete.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(118)))), ((int)(((byte)(171)))), ((int)(((byte)(174)))));
+            this.btSiete.ForeColor = System.Drawing.Color.Black;
             this.btSiete.Location = new System.Drawing.Point(170, 173);
             this.btSiete.Name = "btSiete";
             this.btSiete.Size = new System.Drawing.Size(46, 43);
@@ -326,7 +326,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(34)))), ((int)(((byte)(40)))), ((int)(((byte)(49)))));
+            this.BackColor = System.Drawing.Color.SeaGreen;
             this.ClientSize = new System.Drawing.Size(562, 450);
             this.Controls.Add(this.btBorrarUno);
             this.Controls.Add(this.lblNum1);
