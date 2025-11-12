@@ -95,7 +95,7 @@
             this.txtFrecAbsInterv.Name = "txtFrecAbsInterv";
             this.txtFrecAbsInterv.Size = new System.Drawing.Size(44, 20);
             this.txtFrecAbsInterv.TabIndex = 5;
-            this.txtFrecAbsInterv.TextChanged += new System.EventHandler(this.txtFrecAbsInterv_TextChanged);
+
             // 
             // label4
             // 
@@ -191,7 +191,7 @@
             this.label8.Size = new System.Drawing.Size(114, 31);
             this.label8.TabIndex = 14;
             this.label8.Text = "Fi - 1 = ";
-            this.label8.Click += new System.EventHandler(this.label8_Click);
+
             // 
             // btnModa
             // 
@@ -288,7 +288,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Form4";
             this.Text = "Form4";
-            this.Load += new System.EventHandler(this.Form4_Load);
+
             this.ResumeLayout(false);
             this.PerformLayout();
 

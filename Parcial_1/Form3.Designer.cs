@@ -187,7 +187,7 @@
             this.lblSelecResult.Size = new System.Drawing.Size(87, 31);
             this.lblSelecResult.TabIndex = 36;
             this.lblSelecResult.Text = "result";
-            this.lblSelecResult.Click += new System.EventHandler(this.lblSelecResult_Click);
+           
             // 
             // label8
             // 
